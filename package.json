@@ -1,0 +1,16 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Fetch API and arrange them in ascending order sort by title name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhat Kumar Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {}
+}
